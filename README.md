@@ -10,7 +10,8 @@ The Pre-Lay Survey for Project Panther ensured that seabed conditions were thoro
 - **Date:** April 2024  
 - **Role:** Online Surveyor  
 - **Client:** Chevron Nigeria Limited  
-- **Vessel:** MC CELTIC ZION  
+- **Vessel:** MC CELTIC ZION
+- **Client**: Chevron Nig. Limited 
 
 ## Responsibilities  
  - Collaborated with the project client and Project Manager to outline the survey scope, objectives, and deliverables, ensuring alignment with project requirements.  
